@@ -18,6 +18,7 @@ printf("%d is a palindrome.",original);
 else
 printf("%d is not a palindrome.",original);
 return 0;
+}
 // #include <stdio.h>
 // #include <math.h>
 // int palindrome(int num, int n)
